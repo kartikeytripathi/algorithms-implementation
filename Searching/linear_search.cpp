@@ -26,7 +26,6 @@ int linear_search(const T element, const vector<T>& values) {
 
     return -1;  // when no match is found
 }
-
 #ifndef LINEAR_SEARCH_TEST
 int main() {
     int element;
